@@ -1,0 +1,2 @@
+- BetterSnap Tool
+- HotCorners
