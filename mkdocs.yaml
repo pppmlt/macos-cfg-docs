@@ -44,6 +44,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
 nav:
+  - Overview: index.md
   - System Settings: macos_settings.md
   - Essential Tools: essential_tools.md
   - Potentially Nice: potentially_nice.md
